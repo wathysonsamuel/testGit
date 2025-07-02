@@ -6,5 +6,11 @@ public class suportTest {
         System.out.println("Vamos testar o git um pouco");
         System.out.println("Começando");
 
+        // git checkout HEAD~1 -> voltando para o penúltimo commit
+
+        // git checkout main // voltando para o topo da main
+
+        System.out.println("usando o git reset");
+
     }
 }
